@@ -22,6 +22,6 @@ fig.3 <- ggplot(filter(ans,Variable=="Business Structures"),aes(x=Time,y=Value,c
 ggsave("03_Figure.eps", dpi=600,plot = fig.3,height=4,width=6,units="in")
 
 
-
+ggsave("03_Figure.svg",plot = fig.3,height=4,width=6,units="in")
 
 
