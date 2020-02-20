@@ -143,7 +143,6 @@ $192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|-1--1--1|72,72,1
 :LINE-WIDTH 2
 :L<%^E!@
 1:Current.vdf
-1:/Users/jim/Dropbox/Lectures/2018 Lectures/CT561/Lectures/Slides/08 SIR Model/models/Current.vdf
 9:Current
 22:$,Dollar,Dollars,$s
 22:Day,Days
@@ -153,6 +152,7 @@ $192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|-1--1--1|72,72,1
 22:Unit,Units
 22:Week,Weeks
 22:Year,Years
+23:0
 18:SI.vsc
 20:SI.lst
 15:0,0,0,5,0,0
